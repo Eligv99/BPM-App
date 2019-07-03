@@ -1,8 +1,8 @@
-# BPM App
+# DEMO
 
 https://joseluissaboya.github.io/BPM-App/
 
-<h2>Project 1 Proposal: (BPM Music App)</h2>
+# Project 1 Proposal: (BPM Music App)
 
 Developers Role Breakdown:
 
