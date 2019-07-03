@@ -26,6 +26,7 @@ Spotify API
 # Final Version: 
 	
 Login/SignUp Page (Design/Data)
+
 User Dashboard (Design/Data)
 
 # The Technology: 
