@@ -1,6 +1,6 @@
 # DEMO
 
-https://joseluissaboya.github.io/BPM-App/
+https://SaboyaDev.github.io/BPM-App/
 
 # Project 1: (BPM Music App)
 
